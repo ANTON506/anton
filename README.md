@@ -1,2 +1,8 @@
 # anton
 tea project
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xe1EEFe1ac3d4AF0A7230b64e6392385B0400BC12'
+quorum: 1
